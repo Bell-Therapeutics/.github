@@ -5,19 +5,23 @@
 - [musitonin-app](https://github.com/Bell-Therapeutics/musitonin-app)
 - [musitonin-server](https://github.com/Bell-Therapeutics/musitonin-server)
 - [musitonin-sleep-diary](https://github.com/Bell-Therapeutics/musitonin-sleep-diary)
-- [musitonin-client](https://github.com/Bell-Therapeutics/musitonin-client)
 - [musitonin-admin](https://github.com/Bell-Therapeutics/musitonin-admin)
 
 
 ### Wowfit
 
-- [wowfit-server](https://github.com/Bell-Therapeutics/wowfit-server)
 - [wowfit-app](https://github.com/Bell-Therapeutics/wowfit-app)
+- [wowfit-server](https://github.com/Bell-Therapeutics/wowfit-server)
 - [wowfit-admin](https://github.com/Bell-Therapeutics/wowfit-admin)
+- [wowfit-admin-server](https://github.com/Bell-Therapeutics/wowfit-admin-server)
+
+
+### Legacy
+
+- [musitonin-client](https://github.com/Bell-Therapeutics/musitonin-client)
 - [wowfit-client](https://github.com/Bell-Therapeutics/wowfit-client)
 - [wowfit-admin-legacy](https://github.com/Bell-Therapeutics/wowfit-admin-legacy)
 - [wowfit-functions](https://github.com/Bell-Therapeutics/wowfit-functions)
-- [wowfit-admin-server](https://github.com/Bell-Therapeutics/wowfit-admin-server)
 
 
 ### SleepThera
