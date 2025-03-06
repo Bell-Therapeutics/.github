@@ -1,22 +1,30 @@
 # Bell-Therapeutics Organization 🔥
 
-### Musitonin
+## Musitonin
 
+### FE
 - [musitonin-app](https://github.com/Bell-Therapeutics/musitonin-app)
-- [musitonin-server](https://github.com/Bell-Therapeutics/musitonin-server)
-- [musitonin-sleep-diary](https://github.com/Bell-Therapeutics/musitonin-sleep-diary)
 - [sleepthera-admin](https://github.com/Bell-Therapeutics/sleepthera-admin)
+- [musitonin-sleep-diary](https://github.com/Bell-Therapeutics/musitonin-sleep-diary)
 
+### BE
+- [musitonin-server](https://github.com/Bell-Therapeutics/musitonin-server)
 
-### Wowfit
+---
 
+## Wowfit
+
+### FE
 - [wowfit-app](https://github.com/Bell-Therapeutics/wowfit-app)
-- [wowfit-server](https://github.com/Bell-Therapeutics/wowfit-server)
 - [wowfit-admin](https://github.com/Bell-Therapeutics/wowfit-admin)
+
+### BE
+- [wowfit-server](https://github.com/Bell-Therapeutics/wowfit-server)
 - [wowfit-admin-server](https://github.com/Bell-Therapeutics/wowfit-admin-server)
 
+---
 
-### Legacy
+## Legacy
 
 - [musitonin-client](https://github.com/Bell-Therapeutics/musitonin-client)
 - [musitonin-admin](https://github.com/Bell-Therapeutics/musitonin-admin)
@@ -24,7 +32,8 @@
 - [wowfit-admin-legacy](https://github.com/Bell-Therapeutics/wowfit-admin-legacy)
 - [wowfit-functions](https://github.com/Bell-Therapeutics/wowfit-functions)
 
+---
 
-### Etc.
+## Etc.
 
 - [spring-boot-api-server-template](https://github.com/Bell-Therapeutics/spring-boot-api-server-template)
