@@ -1,10 +1,11 @@
 # Bell-Therapeutics Organization 🔥
 
-## Musitonin
+## SleepThera
 
 ### FE
 - [musitonin-app](https://github.com/Bell-Therapeutics/musitonin-app)
 - [sleepthera-admin](https://github.com/Bell-Therapeutics/sleepthera-admin)
+- [sleepthera-admin-v2](https://github.com/Bell-Therapeutics/sleepthera-admin-v2) 
 - [musitonin-sleep-diary](https://github.com/Bell-Therapeutics/musitonin-sleep-diary)
 
 ### BE
