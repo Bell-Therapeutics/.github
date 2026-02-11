@@ -7,6 +7,7 @@
 - [sleepthera-admin-v2](https://github.com/Bell-Therapeutics/sleepthera-admin-v2)
 - [sleepthera-app](https://github.com/Bell-Therapeutics/sleepthera-app)
 - [sleepthera-landing-page](https://github.com/Bell-Therapeutics/sleepthera-landing-page)
+- [sleepthera-landing-server](https://github.com/Bell-Therapeutics/sleepthera-landing-server)
 - [moa-watch-admin](https://github.com/Bell-Therapeutics/moa-watch-admin)
 - [sleepthera-moa-watch-android](https://github.com/Bell-Therapeutics/sleepthera-moa-watch-android)
 
