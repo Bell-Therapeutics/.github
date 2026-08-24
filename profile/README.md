@@ -1,5 +1,11 @@
 # Bell-Therapeutics Organization 🔥
 
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+
+<img width="1600" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==">
+
 ## 001
 ### FE
 - [musitonin-app](https://github.com/Bell-Therapeutics/musitonin-app)
@@ -19,7 +25,8 @@
 - [sleepthera-docs](https://github.com/Bell-Therapeutics/sleepthera-docs)
 - [sleepthera-test](https://github.com/Bell-Therapeutics/sleepthera-test)
 
----
+</td>
+<td valign="top" width="33%">
 
 ## 002
 ### FE
@@ -30,7 +37,8 @@
 - [wowfit-server](https://github.com/Bell-Therapeutics/wowfit-server)
 - [wowfit-admin-server](https://github.com/Bell-Therapeutics/wowfit-admin-server)
 
----
+</td>
+<td valign="top" width="33%">
 
 ## Etc.
 - [musitonin-client](https://github.com/Bell-Therapeutics/musitonin-client)
@@ -50,3 +58,7 @@
 - [audiosenseplusios](https://github.com/Bell-Therapeutics/audiosenseplusios)
 - [sleepthera](https://github.com/Bell-Therapeutics/sleepthera)
 - [.github](https://github.com/Bell-Therapeutics/.github)
+
+</td>
+</tr>
+</table>
