@@ -9,16 +9,13 @@
 ## 001
 ### FE
 - [musitonin-app](https://github.com/Bell-Therapeutics/musitonin-app)
-- [sleepthera-admin](https://github.com/Bell-Therapeutics/sleepthera-admin)
-- [sleepthera-admin-v2](https://github.com/Bell-Therapeutics/sleepthera-admin-v2)
+- [sleepthera-admin](https://github.com/Bell-Therapeutics/sleepthera-admin-web)
 - [sleepthera-app](https://github.com/Bell-Therapeutics/sleepthera-app)
-- [sleepthera-landing-page](https://github.com/Bell-Therapeutics/sleepthera-landing-page)
-- [sleepthera-landing-server](https://github.com/Bell-Therapeutics/sleepthera-landing-server)
 - [moa-watch-admin](https://github.com/Bell-Therapeutics/moa-watch-admin)
 - [sleepthera-moa-watch-android](https://github.com/Bell-Therapeutics/sleepthera-moa-watch-android)
 
 ### BE
-- [musitonin-server](https://github.com/Bell-Therapeutics/musitonin-server)
+- [musitonin-server](https://github.com/Bell-Therapeutics/sleepthera-server)
 - [sleepthera-moa-watch-server](https://github.com/Bell-Therapeutics/sleepthera-moa-watch-server)
 
 ### Docs
